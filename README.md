@@ -63,6 +63,7 @@ I'm trying to be a better developer.
   
   <div> 
     
+    
     ![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/23fe6538-3c0c-4133-9408-d34c838d48d9)
 
     
