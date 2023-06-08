@@ -62,15 +62,12 @@ I'm trying to be a better developer.
   
   
   <div> 
-    
-    
    
-    ![CodeGIF (2)](https://github.com/sokumi/sokumi/assets/128358787/9f0020a6-5ffb-4143-a7f3-42aa0ec4666e)
-
-
-    
-
-</div>
+  
+  ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)
+   
+  
+  </div>
 
   
   
