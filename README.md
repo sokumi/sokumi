@@ -56,7 +56,8 @@ I'm trying to be a better developer.
   ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)
 
     
- ![GattuUseCodeGattuGIF](https://github.com/sokumi/sokumi/assets/128358787/f69e7e91-b462-4cf2-affb-10f55816bf9d)
+
+![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/23fe6538-3c0c-4133-9408-d34c838d48d9)
 
   
   
