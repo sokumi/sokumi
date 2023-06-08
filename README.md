@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=omni)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=omni) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact&theme=tokyonight)
 <!--
 **sokumi/sokumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
