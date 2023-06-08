@@ -50,7 +50,11 @@ I'm trying to be a better developer.
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=radical)
    
  
-    ![CharlieBrownDanceGIF (2)](https://github.com/sokumi/sokumi/assets/128358787/b0c18938-be71-4e0b-a0a3-e948f6f6472e)
+#
+  
+  
+  ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)
+
     
  
   
