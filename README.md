@@ -17,6 +17,7 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=omni) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
   
   </div>
 <!--
