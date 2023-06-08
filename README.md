@@ -53,11 +53,11 @@ I'm trying to be a better developer.
 #
   
   
-  ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)
+  ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/23fe6538-3c0c-4133-9408-d34c838d48d9)
 
     
 
-![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/23fe6538-3c0c-4133-9408-d34c838d48d9)
+
 
   
   
