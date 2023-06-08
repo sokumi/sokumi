@@ -30,6 +30,7 @@ I'm trying to be a better developer.
     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   </div>
 
   <div>
@@ -44,6 +45,16 @@ I'm trying to be a better developer.
 
 
 #
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=radical)
+  
+  <p>
+    ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/5242d563-05a9-492d-b28e-e6e3c9f459fd)
+
+  </p>
+  
+  
   
 
  
