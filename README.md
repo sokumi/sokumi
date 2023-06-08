@@ -64,7 +64,8 @@ I'm trying to be a better developer.
   <div> 
    
   
-  ![CharlieBrownDanceGIF](https://github.com/sokumi/sokumi/assets/128358787/448d2ce4-95bb-4c4e-ba1f-30ea9aff6f49)
+  ![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/20d6ac89-d117-4fa0-a7e0-514b76dfab6c)
+
    
   
   </div>
