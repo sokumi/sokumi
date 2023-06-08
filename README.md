@@ -64,7 +64,9 @@ I'm trying to be a better developer.
   <div> 
     
     
-    ![CodeGIF](https://github.com/sokumi/sokumi/assets/128358787/23fe6538-3c0c-4133-9408-d34c838d48d9)
+   
+    ![CodeGIF (2)](https://github.com/sokumi/sokumi/assets/128358787/9f0020a6-5ffb-4143-a7f3-42aa0ec4666e)
+
 
     
 
