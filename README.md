@@ -2,7 +2,11 @@
   <p>
     🌹 ME 🌹
   </p>
-  sdkafhsdfsdf
+  
+Hello! I'm Suyeon, a web developer.
+My main technology is Nodejs, C#, ASP.NET.
+I will graduate from the Korea Communications University in August 2023, and I am also preparing for the information processing engineer exam.
+I'm trying to be a better developer.
   
   
 #
@@ -40,7 +44,7 @@
 
 #
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=omni) 
+
  
   
 </div> 
