@@ -43,11 +43,11 @@ I'm trying to be a better developer.
   </div>
   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact">
+
 #
   
   
-  (https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact">
    
  
 #
