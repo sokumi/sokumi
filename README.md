@@ -46,7 +46,7 @@ I'm trying to be a better developer.
 
 #
   
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokumi&layout=compact">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokumi&show_icons=true&theme=radical)
    
  
