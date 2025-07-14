@@ -3,11 +3,7 @@
     🌹 ME 🌹
   </p>
   
-Hello! I'm Suyeon, a web developer.<br>
-My main technology is Nodejs, C#, ASP.NET. <br>
-I will graduate from the Korea Communications University in August 2023, <br>
-  and I am also preparing for the information processing engineer exam. <br>
-I'm trying to be a better developer.
+
   
   
 #
